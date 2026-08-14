@@ -39,5 +39,6 @@
         "test": ["@phpstan", "@phpunit"],
         "phpstan": "phpstan analyse --memory-limit=512M",
         "phpunit": "phpunit"
-    }
+    },
+    "version": "0.1.0"
 }
